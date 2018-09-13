@@ -1,1 +1,1 @@
-# quartic.ai
+model.r contains the code for the machine learning model. Before running this make sure the train.csv and test.csv and this file, all are in the same folder. After running this code file, an extra file will be generated which is the output file, this file contains the results of the test data. Output file is also provided which contains the results of the test data.
